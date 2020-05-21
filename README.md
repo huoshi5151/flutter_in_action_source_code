@@ -12,7 +12,7 @@
  ```python
     chmod +x intl.sh
     ./intl.sh
-    ```
+```
 
 ## 运行效果
 
