@@ -8,6 +8,11 @@
 2. 并不是《Flutter实战》所有示例都有源码。如有必要，欢迎读者补充其它示例（提PR）.
 3. ”实例篇“源码位于 "github_client_app"子目录下，需要用IDE单独打开
 
+核对/lib/l10n文件夹名
+
+'''chmod +x intl.sh
+'''./intl.sh
+
 ## 运行效果
 
 ![运行界面](home.png)
