@@ -9,9 +9,10 @@
 3. ”实例篇“源码位于 "github_client_app"子目录下，需要用IDE单独打开
 
 核对/lib/l10n文件夹名
-
-'''chmod +x intl.sh
-'''./intl.sh
+ ```python
+    chmod +x intl.sh
+    ./intl.sh
+    ```
 
 ## 运行效果
 
